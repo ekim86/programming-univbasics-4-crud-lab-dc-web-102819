@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   fav_colors =  ["red", "pink"]
-  fav_colors.unshift("black")
+  fav_colors.unshift("wow")
   p  fav_colors
 end
 
