@@ -7,9 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-
-  fav_foods << "arrays!"
-
+  fav_drinks  =  ["water", "coffee"]
+  fav_drinks << "arrays!"
+  p fav_drinks
 end
 
 def add_element_to_start_of_array(array, element)
