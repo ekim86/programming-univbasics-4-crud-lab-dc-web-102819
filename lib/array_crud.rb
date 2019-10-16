@@ -39,6 +39,7 @@ end
 
 def retrieve_first_element_from_array(array)
     fav_colors =  ["wow", "am", "pink", "arrays!"]
+    fav_colors
 end
 
 def retrieve_last_element_from_array(array)
