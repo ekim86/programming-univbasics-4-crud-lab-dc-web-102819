@@ -48,6 +48,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  fav_colors =  ["wow", "am", "pink", "arrays!"]
+  fav_colors =  ["wow", "totally", "pink", "arrays!"]
   fav_colors[1]
 end
