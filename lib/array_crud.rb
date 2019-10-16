@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   fav_drink  =  ["water", "coffee"]
-  fav_drink.push("coke")
+  fav_drink << "coke"
   p  fav_drink
 end
 
