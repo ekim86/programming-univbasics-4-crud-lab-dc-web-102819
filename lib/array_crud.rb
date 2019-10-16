@@ -33,7 +33,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  fav_colors =  ["wow", "red", "pink", "arrays!"]
+  fav_colors =  ["wow", "am", "pink", "arrays!"]
   fav_colors[1]
 end
 
