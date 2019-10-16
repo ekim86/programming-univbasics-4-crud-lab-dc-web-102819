@@ -13,7 +13,9 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  fav_colors ["red", "pink"]
+  fav_colors.unshift("black")
+  p  fav_colors
 end
 
 def remove_element_from_end_of_array(array)
