@@ -3,11 +3,13 @@ def create_an_empty_array
 end
 
 def create_an_array
-  favorite_foods  =  ["fries", "hot dog", "hamburger", "salad"]
+  fav_foods  =  ["fries", "hot dog", "hamburger", "salad"]
 end
 
 def add_element_to_end_of_array(array, element)
-  favorite_foods  <<  "fish"
+  fav_drink  =  ["water", "coffee"]
+  fav_drink.push("coke")
+  p  fav_drink
 end
 
 def add_element_to_start_of_array(array, element)
