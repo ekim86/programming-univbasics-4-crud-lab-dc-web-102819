@@ -19,7 +19,10 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  fav_colors =  ["red", "pink", "white"]
+  white = fav_colors.pop
+  p  fav_colors
+  p white
 end
 
 def remove_element_from_start_of_array(array)
