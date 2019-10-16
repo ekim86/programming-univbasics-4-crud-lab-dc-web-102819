@@ -38,8 +38,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-    fav_colors =  ["blue", "am", "pink", "arrays!"]
-    fav_colors[0] = "wow" => "wow"
+
 end
 
 def retrieve_last_element_from_array(array)
