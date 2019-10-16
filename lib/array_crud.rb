@@ -7,7 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  favorite_foods  =  ["fries", "hot dog", "hamburger", "salad"]
   favorite_foods  <<  "fish"
 end
 
