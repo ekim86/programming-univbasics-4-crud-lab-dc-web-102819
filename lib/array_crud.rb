@@ -49,5 +49,6 @@ end
 
 def update_element_from_index(array, index_number, element)
     fav_colors =  ["wow", "am", "pink", "arrays!"]
-    fav_colors[0] = "totally"  => "totally"
+    fav_colors[0] = "totally"
+    => "totally"
 end
